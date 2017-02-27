@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "scripts": {
-      "start": "node app.js" // tells the web service where the start script is 
-  },
   "dependencies": {
     "botbuilder": "^3.5.1",
     "mongodb": "^2.2.19",
