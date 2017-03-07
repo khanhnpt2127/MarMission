@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\MarsBot\MarMission\MarM\bin\Debug\MarM.exe.config
+\\Mac\Home\Desktop\MarsBot\MarMission\MarM\bin\Debug\MarM.exe
+\\Mac\Home\Desktop\MarsBot\MarMission\MarM\bin\Debug\MarM.pdb
+\\Mac\Home\Desktop\MarsBot\MarMission\MarM\bin\Debug\Microsoft.Bot.Connector.DirectLine.dll
+\\Mac\Home\Desktop\MarsBot\MarMission\MarM\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+\\Mac\Home\Desktop\MarsBot\MarMission\MarM\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\MarsBot\MarMission\MarM\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\MarsBot\MarMission\MarM\obj\Debug\MarM.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\MarsBot\MarMission\MarM\obj\Debug\MarM.exe
+\\Mac\Home\Desktop\MarsBot\MarMission\MarM\obj\Debug\MarM.pdb

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D9F3913A-7562-4EAE-97BC-B837DB1D2390}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/BotConnection.cs">
+    <Files>
+      <File FileName="MarM/Program.cs" Line="18" Column="3" />
+      <File FileName="Droid/BotConnection.cs" Line="47" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MarMission PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

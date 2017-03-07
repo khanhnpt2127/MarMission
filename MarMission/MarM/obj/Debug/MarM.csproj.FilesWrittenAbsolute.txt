@@ -1,0 +1,11 @@
+/Users/tk/Desktop/MarsBot/MarMission/MarM/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Users/tk/Desktop/MarsBot/MarMission/MarM/bin/Debug/MarM.exe.config
+/Users/tk/Desktop/MarsBot/MarMission/MarM/bin/Debug/MarM.exe.mdb
+/Users/tk/Desktop/MarsBot/MarMission/MarM/bin/Debug/MarM.pdb
+/Users/tk/Desktop/MarsBot/MarMission/MarM/bin/Debug/MarM.exe
+/Users/tk/Desktop/MarsBot/MarMission/MarM/obj/Debug/MarM.exe
+/Users/tk/Desktop/MarsBot/MarMission/MarM/obj/Debug/MarM.exe.mdb
+/Users/tk/Desktop/MarsBot/MarMission/MarM/obj/Debug/MarM.pdb
+/Users/tk/Desktop/MarsBot/MarMission/MarM/bin/Debug/Microsoft.Bot.Connector.DirectLine.dll
+/Users/tk/Desktop/MarsBot/MarMission/MarM/bin/Debug/Microsoft.Rest.ClientRuntime.dll
+/Users/tk/Desktop/MarsBot/MarMission/MarM/bin/Debug/Newtonsoft.Json.dll
